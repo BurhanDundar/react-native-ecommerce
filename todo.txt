@@ -1,0 +1,6 @@
+1.) Image yerine svg kullanılacak.
+2.) Linear Gradient kullanmayı öğren ve uygula.
+3.) Text'in kutu dışına taşması engellenecek.
+4.) BlurView Görüntü yapılacak.
+5.) Recovery Password sağa hizalama tekrar bakılacak.
+6.) Route işlemlerine bak mutlaka.
